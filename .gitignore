@@ -1,1 +1,3 @@
 aws*
+*.jar
+/.metadata/
